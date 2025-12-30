@@ -1,0 +1,187 @@
+{
+    "definition": {
+        "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+        "contentVersion": "1.0.0.0",
+        "triggers": {
+            "When_a_Business_Central_Event_Occurs": {
+                "type": "ApiConnectionWebhook",
+                "inputs": {
+                    "host": {
+                        "connection": {
+                            "name": "@parameters('$connections')['dynamicssmbbc']['connectionId']"
+                        }
+                    },
+                    "body": {
+                        "notificationUrl": "@listCallbackUrl()"
+                    },
+                    "path": "/subscribe",
+                    "queries": {
+                        "company": "YOUR_COMPANY_ID",
+                        "event": "GO365FIFOOverrideRequested"
+                    }
+                }
+            }
+        },
+        "actions": {
+            "Parse_Event_Data": {
+                "type": "ParseJson",
+                "inputs": {
+                    "content": "@triggerBody()",
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "entryNo": {
+                                "type": "integer"
+                            },
+                            "warehouseActivityNo": {
+                                "type": "string"
+                            },
+                            "itemNo": {
+                                "type": "string"
+                            },
+                            "locationCode": {
+                                "type": "string"
+                            },
+                            "expectedLotNo": {
+                                "type": "string"
+                            },
+                            "requestedLotNo": {
+                                "type": "string"
+                            },
+                            "quantity": {
+                                "type": "number"
+                            },
+                            "requestedBy": {
+                                "type": "string"
+                            },
+                            "reason": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                },
+                "runAfter": {}
+            },
+            "Post_Adaptive_Card_and_Wait": {
+                "type": "ApiConnection",
+                "inputs": {
+                    "host": {
+                        "connection": {
+                            "name": "@parameters('$connections')['teams']['connectionId']"
+                        }
+                    },
+                    "method": "post",
+                    "path": "/v1.0/teams/YOUR_TEAM_ID/channels/YOUR_CHANNEL_ID/messages",
+                    "body": {
+                        "recipient": {
+                            "channelId": "YOUR_CHANNEL_ID"
+                        },
+                        "messageBody": "## ⚠️ FIFO/FEFO Override Request\n\n**Picker:** @{body('Parse_Event_Data')?['requestedBy']}\n\n**Document:** @{body('Parse_Event_Data')?['warehouseActivityNo']}\n\n**Item:** @{body('Parse_Event_Data')?['itemNo']}\n\n**Location:** @{body('Parse_Event_Data')?['locationCode']}\n\n**Expected Lot:** @{body('Parse_Event_Data')?['expectedLotNo']}\n\n**Requested Lot:** @{body('Parse_Event_Data')?['requestedLotNo']}\n\n**Quantity:** @{body('Parse_Event_Data')?['quantity']}\n\n**Reason:** @{body('Parse_Event_Data')?['reason']}",
+                        "updateMessage": "This override request has been processed."
+                    }
+                },
+                "runAfter": {
+                    "Parse_Event_Data": [
+                        "Succeeded"
+                    ]
+                }
+            },
+            "Post_Approval_Card": {
+                "type": "ApiConnection",
+                "inputs": {
+                    "host": {
+                        "connection": {
+                            "name": "@parameters('$connections')['teams']['connectionId']"
+                        }
+                    },
+                    "method": "post",
+                    "path": "/v1.0/teams/YOUR_TEAM_ID/channels/YOUR_CHANNEL_ID/messages/$approvalCard",
+                    "body": {
+                        "title": "FIFO/FEFO Override Approval Required",
+                        "options": "Approve,Reject",
+                        "isAlert": true
+                    }
+                },
+                "runAfter": {
+                    "Post_Adaptive_Card_and_Wait": [
+                        "Succeeded"
+                    ]
+                }
+            },
+            "Condition_Approved": {
+                "type": "If",
+                "expression": {
+                    "and": [
+                        {
+                            "equals": [
+                                "@body('Post_Approval_Card')?['selectedOption']",
+                                "Approve"
+                            ]
+                        }
+                    ]
+                },
+                "actions": {
+                    "Update_Override_Request_Approved": {
+                        "type": "ApiConnection",
+                        "inputs": {
+                            "host": {
+                                "connection": {
+                                    "name": "@parameters('$connections')['dynamicssmbbc']['connectionId']"
+                                }
+                            },
+                            "method": "patch",
+                            "path": "/v1.0/companies(YOUR_COMPANY_ID)/overrideRequests(@{body('Parse_Event_Data')?['entryNo']})",
+                            "body": {
+                                "status": "Approved",
+                                "approvedBy": "@{body('Post_Approval_Card')?['responder']?['email']}",
+                                "approvalResponse": "Approved by supervisor"
+                            }
+                        }
+                    }
+                },
+                "else": {
+                    "actions": {
+                        "Update_Override_Request_Rejected": {
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@parameters('$connections')['dynamicssmbbc']['connectionId']"
+                                    }
+                                },
+                                "method": "patch",
+                                "path": "/v1.0/companies(YOUR_COMPANY_ID)/overrideRequests(@{body('Parse_Event_Data')?['entryNo']})",
+                                "body": {
+                                    "status": "Rejected",
+                                    "approvedBy": "@{body('Post_Approval_Card')?['responder']?['email']}",
+                                    "approvalResponse": "Rejected by supervisor"
+                                }
+                            }
+                        }
+                    }
+                },
+                "runAfter": {
+                    "Post_Approval_Card": [
+                        "Succeeded"
+                    ]
+                }
+            }
+        }
+    },
+    "parameters": {
+        "$connections": {
+            "value": {
+                "dynamicssmbbc": {
+                    "connectionId": "",
+                    "connectionName": "BusinessCentral",
+                    "id": "/providers/Microsoft.PowerApps/apis/shared_dynamicssmbbc"
+                },
+                "teams": {
+                    "connectionId": "",
+                    "connectionName": "Teams",
+                    "id": "/providers/Microsoft.PowerApps/apis/shared_teams"
+                }
+            }
+        }
+    }
+}

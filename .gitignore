@@ -1,0 +1,19 @@
+# AL Extension build artifacts
+.alpackages/
+*.app
+
+# VS Code
+.vscode/.alcache/
+.vscode/*.code-workspace
+
+# Snapshots and test results
+/.snapshots/
+/TestResults/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak

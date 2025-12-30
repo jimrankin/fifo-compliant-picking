@@ -1,0 +1,894 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FIFO Compliant Picking">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2005524984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 Compliance Audit Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 1389764835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allocated Bin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Allocated Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 571221867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allocated Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Allocated Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 4041162204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Approved By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 1194481182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Approved DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2129760914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compliance Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Compliance Mode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 3572756595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Created DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Warehouse Pick,Warehouse Shipment,Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2598426154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Bin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Expected Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 3057349962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Expected Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 523816635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot Rank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Lot Rank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 1378617724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Override Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Override Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 3625658052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Override Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Override Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 183212003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Was FIFO/FEFO Compliant</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Was FIFO/FEFO Compliant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2005524984 - Field 1794985883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Was Override</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Compliance Audit Log - Field Was Override - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 FIFO Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 2395053848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Approval Bypass</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Allow Approval Bypass - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 2175082308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Partial Lot Consumption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Allow Partial Lot Consumption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 431534761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application Insights Connection String</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field App Insights Connection String - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3695347508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval Timeout (Minutes)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Approval Timeout (Minutes) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3100473127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable Full Audit Trail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Enable Full Audit Trail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3681677976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enforce Bin Sequence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Enforce Bin Sequence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 4285624993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enforce Zone Sequence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Enforce Zone Sequence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 907641471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exclude Expired Lots</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Exclude Expired Lots - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3335033336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Shelf Life</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Minimum Shelf Life - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3058008933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Mode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3752839446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require Supervisor Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Require Supervisor Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3941780030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Respect BC Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Respect BC Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 530048827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Respect Item Tracking Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Respect Item Tracking Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 1661017824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retain Logs (Days)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Retain Logs (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 3766336276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Strict Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Strict Mode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 67215803 - Field 1961319354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teams Webhook URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 FIFO Setup - Field Teams Webhook URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 Lot Allocation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Field 2814799924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Field Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Field 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Field Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2117851361 - Field 1018677426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Allocation - Field Rank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 Lot Ranking</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Field 4053628079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available Qty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Field Available Qty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Field 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Field Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619163419 - Field 1018677426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Lot Ranking - Field Rank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 Override Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 3459198688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Approval Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 4041162204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Approved By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 1194481182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Approved DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 2598426154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Bin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Expected Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 3057349962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Expected Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 1490871715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expires DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Expires DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 3369789712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 3077322180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested Bin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Requested Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 79791429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Requested By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 3592431507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Requested DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 2445795540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Requested Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 2542589571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Activity Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Warehouse Activity Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 529058337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Activity No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Warehouse Activity No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1102780463 - Field 4097882086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Was Timed Out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GO365 Override Request - Field Was Timed Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FIFO/FEFO Compliance Audit Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 1389764835 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bin code actually allocated for picking.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Allocated Bin Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 571221867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The lot number actually allocated for picking.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Allocated Lot No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 2129760914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The compliance mode in effect (FIFO or FEFO).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Compliance Mode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 3572756595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The date and time this allocation was logged.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Created DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The source document number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The type of source document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The unique entry number for this audit log record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 2598426154 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bin code recommended by FIFO/FEFO rules.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Expected Bin Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 3057349962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The lot number recommended by FIFO/FEFO rules.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Expected Lot No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 2842094365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description of the item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Item Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The item being picked.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The warehouse location.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 523816635 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The rank of this lot in the FIFO/FEFO queue (1 = oldest/expiring soonest).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Lot Rank - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 1378617724 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The reason provided for overriding FIFO/FEFO rules.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Override Reason - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 3625658052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The status of the override approval.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Override Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The quantity allocated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The user who created this pick line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 183212003 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates if this allocation followed FIFO/FEFO rules.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Was FIFO/FEFO Compliant - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Control 1794985883 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates if this was an override of the recommended lot/bin.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Control Was Override - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Action 2851454604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export the audit log to Excel for reporting.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Action ExportToExcel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Action 2851454604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export to Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Action ExportToExcel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1960518421 - Action 2234406979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Compliance Log List - Action Category_Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FIFO/FEFO Picking Compliance Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3946021143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Audit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Audit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3100473127 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log every allocation decision for audit purposes, not just overrides.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Enable Full Audit Trail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 1661017824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of days to retain audit logs before automatic cleanup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Retain Logs (Days) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable or disable FIFO/FEFO picking compliance enforcement.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3058008933 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select FIFO (First-In, First-Out) to prioritize oldest stock, or FEFO (First-Expired, First-Out) to prioritize stock expiring soonest.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Mode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3941780030 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If enabled, the extension will detect BC's "Pick According to FEFO" setting and add enforcement rather than conflicting with it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Respect BC Settings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 530048827 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If enabled, automatically detect FIFO vs FEFO per item based on Item Tracking Code. Items with expiration tracking (e.g., LOTEXP) use FEFO; items with lot-only tracking (e.g., LOTALL) use FIFO.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Respect Item Tracking Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 4219141113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Override Workflow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control OverrideWorkflow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 2395053848 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow users with appropriate permissions to bypass the approval workflow.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Allow Approval Bypass - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3695347508 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minutes to wait for supervisor response before auto-rejecting the override request.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Approval Timeout (Minutes) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3752839446 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require supervisor approval via Teams for any FIFO/FEFO deviation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Require Supervisor Approval - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 1961319354 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL for the Teams channel Incoming Webhook connector to receive approval requests.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Teams Webhook URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3301653136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picking Rules</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control PickingRules - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 2175082308 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow splitting quantity across multiple lots when the oldest lot has insufficient quantity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Allow Partial Lot Consumption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3681677976 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require picks to respect Bin Ranking order within FIFO/FEFO compliance.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Enforce Bin Sequence - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 4285624993 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require picks to prioritize designated Pick zones before other zones.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Enforce Zone Sequence - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 907641471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automatically exclude expired lots from pick suggestions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Exclude Expired Lots - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3335033336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum remaining shelf life required for outbound picks. Use date formula format: 6M = 6 months, 90D = 90 days. Leave empty to disable.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Minimum Shelf Life - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 3766336276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Block pick creation entirely if no compliant lots are available. If disabled, non-compliant picks require override approval.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Strict Mode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 1462872145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Telemetry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control Telemetry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Control 431534761 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Application Insights connection string for usage and error telemetry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Control App Insights Connection String - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Action 2559846888 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the compliance audit log for all allocation decisions and overrides.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Action ViewAuditLog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Action 2559846888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Audit Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Action ViewAuditLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Action 3173202076 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete audit log entries older than the retention period.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Action CleanupOldLogs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Action 3173202076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cleanup Old Logs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Action CleanupOldLogs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224198287 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 FIFO Setup Card - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 Override API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 3170261136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control approvalResponse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 1772356236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control approvedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2445647534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control approvedDateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2683860767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control entryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2874189554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Bin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control expectedBinCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 743001636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expected Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control expectedLotNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2968940923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expires DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control expiresDateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2930473216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control itemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2626499740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control locationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 3355113493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 903647472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2034923212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested Bin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control requestedBinCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2110855629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control requestedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 1835193579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control requestedDateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 1108881674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control requestedLotNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 998393528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 747072377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Activity Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control warehouseActivityLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 2863931251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Activity No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control warehouseActivityNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 63989416 - Control 1452848206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Was Timed Out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override API - Control wasTimedOut - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2285084530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request FIFO/FEFO Override</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override Reason Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2285084530 - Control 3185748119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Override Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override Reason Input - Control OverrideRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2285084530 - Control 1187518228 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provide a detailed reason for requesting this FIFO/FEFO deviation. This will be sent to the supervisor for approval.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override Reason Input - Control OverrideReason - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2285084530 - Control 1187518228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason for Override</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override Reason Input - Control OverrideReason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2285084530 - Control 2844885802 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the lot number you want to pick instead of the FIFO/FEFO recommended lot.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override Reason Input - Control RequestedLotNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2285084530 - Control 2844885802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GO365 Override Reason Input - Control RequestedLotNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3660487212 - Action 67215803 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Configure FIFO/FEFO picking compliance enforcement settings.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Location Card Ext - Action GO365 FIFO Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3660487212 - Action 67215803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>FIFO/FEFO Compliance Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Location Card Ext - Action GO365 FIFO Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3629893391 - Action 1498065399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3547390336">
+          <source>Request supervisor approval to deviate from FIFO/FEFO rules for this pick.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Warehouse Pick Ext - Action GO365 Request Override - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3629893391 - Action 1498065399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3547390336">
+          <source>Request Override</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Warehouse Pick Ext - Action GO365 Request Override - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3629893391 - Action 127790976 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3547390336">
+          <source>View the compliance audit log for this pick.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Warehouse Pick Ext - Action GO365 View Compliance Log - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3629893391 - Action 127790976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3547390336">
+          <source>View Compliance Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Warehouse Pick Ext - Action GO365 View Compliance Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3629893391 - Control 3286007115 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3547390336">
+          <source>Shows whether this pick complies with FIFO/FEFO rules.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Warehouse Pick Ext - Control GO365 Compliance Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3629893391 - Control 3286007115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3547390336">
+          <source>FIFO/FEFO Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GO365 Warehouse Pick Ext - Control GO365 Compliance Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 148950818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compliance Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Compliance Mode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 148950818 - EnumValue 2548644542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FEFO (Expire First)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Compliance Mode - EnumValue FEFO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 148950818 - EnumValue 1597496930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FIFO (Oldest First)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Compliance Mode - EnumValue FIFO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 523745140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Override Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Override Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 523745140 - EnumValue 2913119229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Override Status - EnumValue Approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 523745140 - EnumValue 2501010821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bypassed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Override Status - EnumValue Bypassed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 523745140 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Override Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 523745140 - EnumValue 1487485508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Override Status - EnumValue Pending Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 523745140 - EnumValue 496445946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rejected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GO365 Override Status - EnumValue Rejected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 796783819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 FIFO Admin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet GO365 FIFO Admin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1802893057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GO365 FIFO User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet GO365 FIFO User - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

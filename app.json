@@ -1,0 +1,45 @@
+{
+    "id": "f7a8b9c0-d1e2-4f3a-5b6c-7d8e9f0a1b2c",
+    "name": "FIFO Compliant Picking",
+    "publisher": "GO365 Ltd",
+    "version": "1.0.0.0",
+    "brief": "Enforce FIFO/FEFO picking compliance in warehouse operations",
+    "description": "This extension intercepts the Warehouse Pick creation process to ensure BC only suggests compliant lots and bins based on FIFO (First-In, First-Out) or FEFO (First-Expired, First-Out) rules. Includes Teams integration for supervisor override approvals and full audit logging.",
+    "privacyStatement": "https://go365.solutions/privacy",
+    "EULA": "https://go365.solutions/eula",
+    "help": "https://go365.solutions/help/fifo-picking",
+    "url": "https://go365.solutions",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+            "publisher": "Microsoft",
+            "name": "System Application",
+            "version": "27.0.0.0"
+        },
+        {
+            "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+            "publisher": "Microsoft",
+            "name": "Base Application",
+            "version": "27.0.0.0"
+        }
+    ],
+    "screenshots": [],
+    "platform": "27.0.0.0",
+    "idRanges": [
+        {
+            "from": 50400,
+            "to": 50499
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": false
+    },
+    "runtime": "16.0",
+    "features": [
+        "TranslationFile"
+    ]
+
+}
