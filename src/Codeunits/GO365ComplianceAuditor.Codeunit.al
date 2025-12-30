@@ -247,12 +247,27 @@ codeunit 50422 "GO365 Compliance Auditor"
     var
         AuditLog: Record "GO365 Compliance Audit Log";
         CutoffDate: DateTime;
+        RetentionDays: Integer;
     begin
         FIFOSetup.GetOrCreate();
+        RetentionDays := FIFOSetup."Retain Logs (Days)";
 
-        CutoffDate := CurrentDateTime - (FIFOSetup."Retain Logs (Days)" * 24 * 60 * 60 * 1000);
+        // Handle case where retention is not set
+        if RetentionDays <= 0 then begin
+            Message('No retention period configured. Please set "Retain Logs (Days)" in Setup.');
+            exit;
+        end;
+
+        // Calculate cutoff date using date arithmetic to avoid overflow
+        CutoffDate := CreateDateTime(Today - RetentionDays, 0T);
         AuditLog.SetFilter("Created DateTime", '<%1', CutoffDate);
-        AuditLog.DeleteAll(true);
+
+        if AuditLog.IsEmpty then
+            Message('No logs older than %1 days found.', RetentionDays)
+        else begin
+            AuditLog.DeleteAll(true);
+            Message('Old logs deleted successfully.');
+        end;
     end;
 
     /// <summary>
